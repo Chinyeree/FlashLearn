@@ -1,7 +1,7 @@
 # FlashLearn
 
 
-FlashLearn is a browser-based flashcard learning app that uses spaced repetition to help users retain knowledge more effectively. Built with React (via CDN), Tailwind CSS, and Babel — no build tools or package managers required!
+FlashLearn is a browser-based flashcard learning app that uses spaced repetition to help users retain knowledge more effectively. Built with React (via CDN), Tailwind CSS, and Babel, no build tools or package managers required!
 
 ---
 
@@ -37,6 +37,6 @@ FlashLearn is a browser-based flashcard learning app that uses spaced repetition
 - **Styling**: Tailwind CSS with custom animations  
 - **State Persistence**: Uses `localStorage` for saving cards, topics, and progress  
 - **Icons**: Lucide React (CDN) for elegant iconography  
-- **No Build Tools**: Entirely static — runs directly in the browser  
+- **No Build Tools**: Entirely static runs directly in the browser  
 
 ---
